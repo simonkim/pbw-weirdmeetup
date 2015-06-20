@@ -3,8 +3,8 @@
     "capabilities": [
         ""
     ],
-    "companyName": "Pebble Technology",
-    "longName": "My Simple Analog",
+    "companyName": "Weird Meetup",
+    "longName": "Weird Meetup Analog",
     "projectType": "native",
     "resources": {
         "media": [
@@ -16,7 +16,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "My Simple Analog",
+    "shortName": "Weird Meetup Analog",
     "targetPlatforms": [
         "aplite",
         "basalt"
